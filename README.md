@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @loicosquare
+- 👋 Hi, I’m Loic Sanou
 - 👀 I’m interested in Sofware Developement |Devops|Artificial intelligence
 - 🌱 I’m currently working as full-stack dev Angular - Java
 - 💞️ I’m looking to collaborate on ...
