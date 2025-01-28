@@ -2,7 +2,7 @@
 - 👀 I’m interested in 👨🏻‍💻 Sofware Developement |Devops|📊⚙️ Artificial intelligence
 - 🌱 I’m currently working as full-stack dev Angular - Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +237 699 986 211 | +33 745916745 | loicsan07@gmail.com
+- 📫 How to reach me loicsan07@gmail.com
 
 <!---
 loicosquare/loicosquare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
